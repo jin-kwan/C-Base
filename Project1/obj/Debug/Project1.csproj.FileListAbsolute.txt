@@ -1,0 +1,12 @@
+C:\C_Projects\C#_Test\Test01\Project1\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+C:\C_Projects\C#_Test\Test01\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\C_Projects\C#_Test\Test01\Project1\Project1\bin\Debug\Project1.exe
+C:\C_Projects\C#_Test\Test01\Project1\Project1\bin\Debug\Project1.pdb
+C:\C_Projects\C#_Test\Test01\Project1\Project1\obj\Debug\Project1.exe
+C:\C_Projects\C#_Test\Test01\Project1\Project1\obj\Debug\Project1.pdb
+C:\C_Projects\C#_Test\Test01\CShapBase\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+C:\C_Projects\C#_Test\Test01\CShapBase\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\C_Projects\C#_Test\Test01\CShapBase\Project1\obj\Debug\Project1.exe
+C:\C_Projects\C#_Test\Test01\CShapBase\Project1\obj\Debug\Project1.pdb
+C:\C_Projects\C#_Test\Test01\CShapBase\Project1\bin\Debug\Project1.exe
+C:\C_Projects\C#_Test\Test01\CShapBase\Project1\bin\Debug\Project1.pdb
